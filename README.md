@@ -1,0 +1,1 @@
+# tabellum-mcp-setup
