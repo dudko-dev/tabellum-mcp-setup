@@ -3,7 +3,7 @@
   "name": "dev.dudko/tabellum",
   "title": "Tabellum",
   "description": "MCP bridge to the Tabellum database client: schema, reads, SQL drafts; writes approved in the app.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://tabellum.dudko.dev",
   "repository": {
     "url": "https://github.com/dudko-dev/tabellum-mcp-setup",
@@ -14,7 +14,7 @@
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "@dudko.dev/tabellum-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": {
         "type": "stdio"
       }
