@@ -1,0 +1,24 @@
+{
+  "name": "tabellum",
+  "description": "Official Tabellum plugin for Claude Code — let Claude query your databases through the Tabellum desktop app, with every write approved by you.",
+  "owner": {
+    "name": "dudko.dev",
+    "email": "siarhei@dudko.dev"
+  },
+  "plugins": [
+    {
+      "name": "tabellum",
+      "source": "./",
+      "description": "Connect Claude to the Tabellum database client: explore schemas, run reads, and draft SQL into the editor across PostgreSQL, MySQL/MariaDB, SQL Server and BigQuery — writes run only after you approve them in the app.",
+      "category": "database",
+      "tags": [
+        "database",
+        "sql",
+        "postgresql",
+        "mysql",
+        "sql-server",
+        "bigquery"
+      ]
+    }
+  ]
+}
